@@ -4,9 +4,9 @@
 
 ## CÓDIGO
 ```
-int redPin = 3; // Pin para controlar el color rojo
-int greenPin = 5; // Pin para controlar el color verde
-int bluePin = 6; // Pin para controlar el color azul
+int redPin = 27; // Pin para controlar el color rojo
+int greenPin = 26; // Pin para controlar el color verde
+int bluePin = 25; // Pin para controlar el color azul
 
 void setup() {
   // Configura los pines como salida
