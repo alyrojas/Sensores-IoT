@@ -4,8 +4,8 @@
 
 ## CÓDIGO
 ```
-const int pinLED = 13;
-const int pinMicrophone = 9;
+const int pinLED = 25;
+const int pinMicrophone = 26;
 
 void setup ()
 {
@@ -29,3 +29,4 @@ void loop ()
 }
 ```
 ## DIAGRAMA
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/99991955/223803356-4da10cf6-6cb1-44ff-88aa-7d598ea5dbf8.png">
