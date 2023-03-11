@@ -29,3 +29,5 @@ void loop ()
 }
 ```
 ## DIAGRAMA
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/99991955/224513690-0afd1c91-ab0e-4aa4-a056-7c9186e62585.png">
+
