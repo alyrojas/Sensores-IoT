@@ -4,8 +4,8 @@
 
 ## CÓDIGO
 ```
-#define VRX_PIN  36 // ESP32 pin GIOP36 (ADC0) connected to VRX pin
-#define VRY_PIN  39 // ESP32 pin GIOP39 (ADC0) connected to VRY pin
+#define VRX_PIN  26 // ESP32 pin GIOP36 (ADC0) connected to VRX pin
+#define VRY_PIN  27 // ESP32 pin GIOP39 (ADC0) connected to VRY pin
 
 int valueX = 0; // to store the X-axis value
 int valueY = 0; // to store the Y-axis value
@@ -28,3 +28,4 @@ void loop() {
 }
 ```
 ## DIAGRAMA
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/99991955/224519120-cbd55d53-1c2f-474a-bf81-702c60ada7c1.png">
